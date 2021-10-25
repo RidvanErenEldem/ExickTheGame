@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3528320757384857646
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6496039824726275912, guid: 636eb7439621b484ca61889a688de5f4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 101.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6496039824726275912, guid: 636eb7439621b484ca61889a688de5f4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 6496039824726275912, guid: 636eb7439621b484ca61889a688de5f4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6496039824726275912, guid: 636eb7439621b484ca61889a688de5f4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6496039824726275912, guid: 636eb7439621b484ca61889a688de5f4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6496039824726275912, guid: 636eb7439621b484ca61889a688de5f4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6496039824726275912, guid: 636eb7439621b484ca61889a688de5f4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6496039824726275912, guid: 636eb7439621b484ca61889a688de5f4, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6496039824726275912, guid: 636eb7439621b484ca61889a688de5f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6496039824726275912, guid: 636eb7439621b484ca61889a688de5f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6496039824726275912, guid: 636eb7439621b484ca61889a688de5f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6496039824726275913, guid: 636eb7439621b484ca61889a688de5f4, type: 3}
+      propertyPath: gorev
+      value: 
+      objectReference: {fileID: 11400000, guid: 6df0d702281ebbf4d89b9afc9b73f768, type: 2}
+    - target: {fileID: 6496039824726275914, guid: 636eb7439621b484ca61889a688de5f4, type: 3}
+      propertyPath: m_Name
+      value: GoblindenGorevAl Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 636eb7439621b484ca61889a688de5f4, type: 3}

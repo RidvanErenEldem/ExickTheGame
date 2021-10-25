@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c0a1fe8d12cb0d418c010e63135e2d7, type: 3}
+  m_Name: Tetikci Bicak
+  m_EditorClassIdentifier: 
+  GorevAciklama: "B\u0131\xE7ak bulman gerek"
+  Diyalog: "Tetikcinin b\u0131\xE7a\u011F\u0131 kay\u0131p ona b\u0131\xE7a\u011F\u0131n\u0131
+    getirirsen sana Tabanca verecel"
+  item: {fileID: 11400000, guid: fe9b9147cc446564a9719ca6f0bed9e3, type: 2}

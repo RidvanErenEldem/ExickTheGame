@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c0a1fe8d12cb0d418c010e63135e2d7, type: 3}
+  m_Name: Yuzuk
+  m_EditorClassIdentifier: 
+  GorevAciklama: "Goblinin Y\xFCz\xFC\u011F\xFCn\xFC Bul"
+  Diyalog: "Goblinin y\xFCz\xFC\u011F\xFC eksik senden bilgisayar kar\u015F\u0131l\u0131\u011F\u0131
+    onu istiyor"
+  item: {fileID: 11400000, guid: 0d917a164d7d30948af101bffffedbb0, type: 2}
